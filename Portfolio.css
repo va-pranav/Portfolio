@@ -1,0 +1,123 @@
+body{
+	background-color: black;
+	font-family: 'Open Sans', sans-serif;
+	color: yellow;
+	padding: 50px 200px;
+}
+.first{
+	font-size: 40px;
+	font-family: 'Julius Sans One', sans-serif;
+}
+.second{
+	font-size: 30px;
+	font-family: 'Julius Sans One', sans-serif;
+}
+.third{
+	color:white;
+	
+	font-size:20;
+}
+.code{
+	color: white;
+	float: left;
+	position: absolute;
+	top:180px;
+	left:205px;
+}
+.blogs
+{
+	color: white;
+	position: absolute;
+	top:180px;
+	left:450px;
+	float: left;
+}
+.C4{
+	color: white;
+	position: absolute;
+	top:180px;
+	left:700px;
+}
+.Designs{
+	color: white;
+	position: absolute;
+	top:255px;
+	left:450px;
+}
+.PP{
+	color: white;
+	position: absolute;
+	top:255px;
+	left:205px;
+}
+.UI{
+	color: white;
+	position: absolute;
+	top:255px;
+	left:700px;
+}
+h1{
+	position: absolute;
+	top:325px;
+	left:205px;
+}
+p{
+	color: white;
+	position: absolute;
+	top:400px;
+	left:205px;
+}
+img{
+	position: absolute;
+	top:400px;
+	left:700px;
+}
+#Desc
+{
+	color: dimgray;
+}
+.fa {
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa-instagram {
+   position: absolute; 
+   top: 615px; 
+   left: 225px;
+   background: black;
+   color: white;
+}
+.fa-twitter {
+ 	position: absolute; 
+   	top: 615px; 
+   	left: 255px;
+   	border-radius:50%;
+  	color: white;
+}
+.fa-linkedin {
+	position: absolute; 
+   	top: 615px; 
+   	left: 280px;
+  	background: black;
+  	color: white;
+}
+.fa-github{
+	position: absolute; 
+   	top: 615px; 
+   	left: 315px;
+  	background: white;
+  	color: black;
+}
+button{
+	font-family: 'Open Sans', sans-serif; 
+	background-color: yellow;
+	position: absolute; 
+   	top: 600px; 
+   	left: 500px;
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	border-style: none;
+}
